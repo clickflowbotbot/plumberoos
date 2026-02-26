@@ -218,7 +218,7 @@ h1, h2, h3, .logo {
 }
 
 /* Services */
-.services { 
+.services {
     background: var(--gray);
 }
 
@@ -386,7 +386,7 @@ footer {
     .nav-links {
         display: none;
     }
-    
+
     .mobile-toggle {
         display: flex;
     }
@@ -403,7 +403,7 @@ footer {
     .hero h1 {
         font-size: 3rem;
     }
-    
+
     .btn-outline, .btn-outline-white {
         margin-left: 0;
         margin-top: 1rem;
