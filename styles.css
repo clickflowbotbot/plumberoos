@@ -188,6 +188,7 @@ h1, h2, h3, .logo {
 }
 
 .text-primary { color: var(--primary); }
+.text-highlight { color: #f4f4f4; }
 
 /* Trust Bar */
 .trust-bar {
@@ -217,7 +218,7 @@ h1, h2, h3, .logo {
 }
 
 /* Services */
-.services {
+.services { 
     background: var(--gray);
 }
 
